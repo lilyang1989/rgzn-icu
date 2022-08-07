@@ -8,6 +8,12 @@ An [experiment](https://mubu.com/app/edit/home/17J-XCQI29C#m) for School of info
 2. 必要工具的使用说明⌛
 3. python基础✅
 4. 数学基础⌛
+
+   4.1常见概念⌛
+
+   4.2微分⌛
+
+   4.3线性代数⌛
 5. 基础算法⌛
 
    5.1遗传算法⬜
