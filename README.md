@@ -16,18 +16,18 @@ An [experiment](https://mubu.com/app/edit/home/17J-XCQI29C#m) for School of info
    4.3线性代数⌛
 5. 基础算法⌛
 
-   5.1遗传算法⬜
+   5.1遗传算法✅
 
-   5.2基于梯度的多项式回归⌛
+   5.2基于梯度的多项式回归✅
 
    5.3粒子群算法⬜
 
    5.4神经网络⬜
 
-   5.5最小二乘法⬜
-6. 经典算法⬜
+   5.5最小二乘法✅
+6. 经典算法⌛
 
-   6.1 K均值聚类（K-Means）⬜ 
+   6.1 K均值聚类（K-Means）✅
 
    6.2 K-Nearest Neighbors    ⬜
 7. 实战作业⬜
