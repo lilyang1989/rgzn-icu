@@ -29,11 +29,11 @@ An [experiment](https://mubu.com/app/edit/home/17J-XCQI29C#m) for School of info
 
    5.5最小二乘法✅
 
-6. 经典算法 ⌛
+6. 经典算法✅
 
    6.1 K均值聚类（K-Means）✅
 
-   6.2 K-Nearest Neighbors    ⬜
+   6.2 K-Nearest Neighbors   ✅
 
 7. 实战作业⬜
 
